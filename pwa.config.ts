@@ -13,7 +13,7 @@ export default {
   display: 'standalone',
   orientation: 'any',
   scope: '/',
-  startUrl: 'https://thepentesterdiaries.blogspot.com/?utm_source=homescreen&m=1',
+  startUrl: '/?utm_source=homescreen&m=1',
   appleStatusBarStyle: 'black-translucent',
   preferRelatedApplications: false,
   shortcuts: [
