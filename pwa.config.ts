@@ -13,7 +13,7 @@ export default {
   display: 'standalone',
   orientation: 'any',
   scope: '/',
-  startUrl: '/?utm_source=homescreen',
+  startUrl: 'https://thepentesterdiaries.blogspot.com/?utm_source=homescreen&m=1',
   appleStatusBarStyle: 'black-translucent',
   preferRelatedApplications: false,
   shortcuts: [
@@ -40,5 +40,5 @@ export default {
     },
   },
   // Please replace with your blog url if you are using CDN (JsDelivr)
-  origin: 'https://hello-example.blogspot.com',
+  origin: 'https://thepentesterdiaries.blogspot.com',
 } satisfies Config;
