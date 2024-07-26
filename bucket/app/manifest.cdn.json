@@ -1,8 +1,8 @@
 {
-  "name": "My Blog",
+  "name": "The Pentester Diaries 2.0",
   "id": "/",
-  "short_name": "My Blog",
-  "description": "My blog description goes here...",
+  "short_name": "Pentester Diaries 2.0 ",
+  "description": "A cybersecurity and infosec , penetration testing blog with steroids!!",
   "version": "1.0",
   "dir": "auto",
   "lang": "en-US",
@@ -11,8 +11,8 @@
   "scope": "https://hello-example.blogspot.com/",
   "display": "standalone",
   "prefer_related_applications": false,
-  "background_color": "#fff",
-  "theme_color": "#fff",
+  "background_color": "#000",
+  "theme_color": "#000",
   "icons": [
     {
       "src": "icons/favicon.ico",
