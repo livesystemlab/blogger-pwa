@@ -7,7 +7,7 @@
   "dir": "auto",
   "lang": "en-US",
   "orientation": "any",
-  "start_url": "https://thepentesterdiaries.blogspot.com/?utm_source=homescreen&m=1",
+  "start_url": "/?utm_source=homescreen&m=1",
   "scope": "/",
   "display": "standalone",
   "prefer_related_applications": false,
